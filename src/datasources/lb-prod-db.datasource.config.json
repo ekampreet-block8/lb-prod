@@ -2,5 +2,5 @@
   "name": "lb_prod_db",
   "connector": "memory",
   "localStorage": "",
-  "file": "./data/db"
+  "file": "./data/db.json"
 }
